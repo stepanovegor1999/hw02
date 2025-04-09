@@ -12,6 +12,9 @@
 
 
 Задание 3
+ДОПОЛНЕНИЕ
+![Ubuntu 64-bit-2025-04-09-09-58-08](https://github.com/user-attachments/assets/7ebb1990-29aa-43a7-b4e1-df15ba2315a4)
+
 ![image](https://github.com/user-attachments/assets/1637e173-c0da-4333-b16d-4d1a0df7c67a)
 ![image](https://github.com/user-attachments/assets/647cdf1a-21c8-484d-be48-69f4003bb094)
 
